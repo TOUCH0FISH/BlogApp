@@ -1,0 +1,10 @@
+bcrypt
+celery
+flasgger
+flask
+flask-cors
+flask-migrate
+flask-sqlalchemy
+pyjwt
+python-dotenv
+redis
